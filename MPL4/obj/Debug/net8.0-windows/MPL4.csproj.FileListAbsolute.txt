@@ -1,0 +1,17 @@
+D:\C# lesson\MPL4\MPL4\bin\Debug\net8.0-windows\MPL4.exe
+D:\C# lesson\MPL4\MPL4\bin\Debug\net8.0-windows\MPL4.deps.json
+D:\C# lesson\MPL4\MPL4\bin\Debug\net8.0-windows\MPL4.runtimeconfig.json
+D:\C# lesson\MPL4\MPL4\bin\Debug\net8.0-windows\MPL4.dll
+D:\C# lesson\MPL4\MPL4\bin\Debug\net8.0-windows\MPL4.pdb
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\MPL4.Form1.resources
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\MPL4.csproj.GenerateResource.cache
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\MPL4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\MPL4.AssemblyInfoInputs.cache
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\MPL4.AssemblyInfo.cs
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\MPL4.csproj.CoreCompileInputs.cache
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\MPL4.dll
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\refint\MPL4.dll
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\MPL4.pdb
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\MPL4.genruntimeconfig.cache
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\ref\MPL4.dll
+D:\C# lesson\MPL4\MPL4\obj\Debug\net8.0-windows\MPL4.Properties.Resources.resources
